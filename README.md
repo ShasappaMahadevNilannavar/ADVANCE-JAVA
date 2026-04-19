@@ -84,9 +84,10 @@ Lab_6c o/p link:
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/6c1.png
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/6c2.png
 
-Lab_7a o/p link: 
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/7a1.jpeg
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/7a2.jpeg
+Lab_7a o/p link:
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/7a1.png
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/7a2.png
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/7a3.png
 
 Lab_7b o/p link:
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/7b.png
@@ -95,28 +96,30 @@ Lab_8a o/p link:
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/8a1.png
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/8a2.png
 
-Lab_8b o/p link: 
+Lab_8b o/p link:
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/8b1.jpeg
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/8b2.jpeg
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/8b2.png
 
 Lab_9a o/p link:
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9a.png
 
 Lab_9b o/p link:
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9b1.jpeg
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9b2.jpeg
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9b1.png
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9b2.png
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9b3.png
 
 Lab_9c o/p link:
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9c1.png
 https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/9c2.png
 
 Lab_10a o/p link:
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10a1.jpeg
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10a2.jpeg
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10a1.png
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10a2.png
 
-Lab_10b o/p link: 
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10b1.jpeg
-https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10b2.jpeg
+Lab_10b o/p link:
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10b1.png
+https://github.com/ShasappaMahadevNilannavar/ADVANCE-JAVA/blob/main/10b2.png
+
 
 
 
